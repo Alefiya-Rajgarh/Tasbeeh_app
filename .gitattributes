@@ -1,4 +1,5 @@
 *.dart linguist-detectable=true
+*.yaml linguist-detectable=true
 *.h linguist-vendored
 *.cpp linguist-vendored
 android/** linguist-vendored
