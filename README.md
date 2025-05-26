@@ -1,16 +1,26 @@
-# tasbeeh_app
+# TASBEEH App 🕌📿
 
-A new Flutter project.
+TASBEEH is a simple and elegant Flutter app designed for counting chants or dhikr (remembrances), widely used in various spiritual practices. With a clean and user-friendly interface, this app helps users keep track of their recitations digitally—no need for a physical tasbeeh!
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🧮 **Digital Counter** for chants
+- 🔄 **Reset Option** to start fresh
+- ➕ **Add Count** with tap or button press
+- 📱 **Minimal and Intuitive UI**
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) – Cross-platform UI toolkit
+- [Dart](https://dart.dev/) – Programming language used with Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To get a local copy up and running follow these simple steps:
+
+### Prerequisites
+
+Make sure Flutter is installed. You can check using:
+
+```bash
+flutter doctor
